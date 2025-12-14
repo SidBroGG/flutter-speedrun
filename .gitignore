@@ -18,6 +18,7 @@ flutter_*.log
 .idea/
 .vscode/
 *.iml
+.devcontainer
 
 # =========================
 # Android
